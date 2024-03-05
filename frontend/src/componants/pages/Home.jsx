@@ -17,6 +17,8 @@ function Home() {
             <div className="col-md-6">
               <h1>this is test two</h1>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora non a tempore aspernatur est nostrum doloribus consequuntur pariatur facere earum, quos praesentium. Asperiores culpa iure quasi ad, illo ut dignissimos.</p>
+              <h1>hello</h1>
+              <p>Lorem ipsum dolor sit amet consectetur.</p>
             </div>
           </div>
         </div>
