@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header{
+    background-color:#17395d ;
+    display: flex;
+  justify-content: space-around;
+  align-items: center;
+ 
+}
+.header .logo img{
+    width: 100px;
+    height: auto;
+}
+.header .navManu a{
+    text-decoration: none;
+  color: #c4c4c4;
+  padding: 0px 10px;
+  font-size: 18px;
+   transition: .5s;
+}
+.header .navManu a:hover{
+    color: #3f7fc3;
+}
+.loginSectionBtn a{
+    background-color:#17395d;
+    padding: 10px 20px;
+    color:   #d7d7d7;
+    margin: 5px;
+    font-size: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+.loginSectionBtn a:hover{
+    text-decoration: none;
+    color: #3f7fc3;
+    transition: .5s;
+   
+}
+.active{
+    color: #3f7fc3;
+}
+
+/* Slider section Start */
+.sliderSection {
+    background: #000;
+    width: 100%;
+   
+  }
+  .sliderItem {
+    height: 500px;
+  }
+  .sliderItem img{
+    width: 100%;
+    height: auto;
+  }
+  /* Slider section END */

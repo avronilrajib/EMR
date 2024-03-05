@@ -1,0 +1,4 @@
+Primary Color-> #17395d
+secondary Color-> #3f7fc3
+
+text color= #d7d7d7
