@@ -2,6 +2,8 @@ import React from "react";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
+import Card from "../Card/Card";
+
 function Home() {
 
   return (
@@ -11,7 +13,7 @@ function Home() {
       <div className="DummySection">
         <div className="container">
           <div className="row">
-            <div className="col-md-6">
+            <div className="col-md-6 ">
               <h1>This is test </h1>
             </div>
             <div className="col-md-6">
@@ -22,6 +24,9 @@ function Home() {
             </div>
           </div>
         </div>
+      </div>
+      <div className="container">
+        <Card />
       </div>
     </>
   );
