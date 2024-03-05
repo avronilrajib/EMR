@@ -12,10 +12,10 @@ function Home() {
         <div className="container">
           <div className="row">
             <div className="col-md-6">
-              <h1>Hello</h1>
+              <h1>This is test </h1>
             </div>
             <div className="col-md-6">
-              <h1>Hello 2</h1>
+              <h1>this is test two</h1>
             </div>
           </div>
         </div>
